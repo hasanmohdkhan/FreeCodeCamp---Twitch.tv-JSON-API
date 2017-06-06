@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+#card{
+  background-color: yellow;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height:50px;
+}
+
+#info{
+
+margin-bottom: 1px;
+ margin-top: 10px;
+
+ height: 150px;
+ font-family: 'Oswald', sans-serif;
+ font-size: 20px;
+
+}
+
+#body{
+margin: 30px;
+margin-left: 150px;
+margin-right: 150px;
+height: 50%;
+
+}
+#fccStatus{
+font-family: 'Cairo', sans-serif;
+font-size: 30px;
+}
+
+h1{
+font-family: 'Cairo', sans-serif;
+font-size: 30px;
+}
+
+#header{
+
+
+}
